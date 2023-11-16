@@ -1,8 +1,8 @@
-#Disco
+# Disco
 
-##Comandos interesantes de git
+## Comandos interesantes de git
 
-**Inicializar repositorio**
+** Inicializar repositorio **
 
 '''terminal
 git init
