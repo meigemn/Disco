@@ -1,4 +1,15 @@
 #Disco
 
-Solución a la prueba de Java del bloque 2.
-**IES Inca Garcilaso Montilla**-Montilla
+##Comandos interesantes de git
+
+**Inicializar repositorio**
+
+'''terminal
+git init
+'''
+
+'''terminal
+git add .
+git commit -m"..."
+git  push
+'''
