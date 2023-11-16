@@ -2,7 +2,7 @@
 
 ## Comandos interesantes de git
 
-** Inicializar repositorio **
+**Inicializar repositorio**
 
 '''terminal
 git init
