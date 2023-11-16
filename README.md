@@ -3,13 +3,14 @@
 ## Comandos interesantes de git
 
 **Inicializar repositorio**
-
-'''terminal
+```terminal
 git init
-'''
 
-'''terminal
+```
+
+```terminal
 git add .
 git commit -m"..."
 git  push
-'''
+
+`` 
